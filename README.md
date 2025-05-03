@@ -24,7 +24,9 @@ This tutorial will guide you through building your own Arduino-based Game Boy th
 
 ### Wiring Diagram
 
-Based on your image, here's how to connect the components:
+
+![alt text](sup/circuit_diagram.png)
+
 
 1. **LED Matrix Connections**:
    - Connect rows to Arduino pins D2-D7 (6 pins)
@@ -59,12 +61,31 @@ The system uses multiplexing to control the 8x8 LED matrix with minimal pins:
 
 This Game Boy includes 6 exciting games:
 
-1. **BalGame** - A balancing game where you keep a ball stable
-2. **CarGame** - A racing or dodging game
-3. **FlyGame** - A flying/shooting game
-4. **FollowingGame** - A memory or pattern-following game
-5. **ShootGame** - Target shooting game
-6. **PingPongGame** - Classic Pong-style game
+1. **Ping Pong Game** - A balancing game where you keep a ball stable
+
+![alt text](sup/ping_pong.png)
+
+2. **Car Game** - A racing or dodging game
+
+![alt text](sup/car_game.png)
+
+3. **Bird Flying Game** - A flying/shooting game
+
+![alt text](sup/bird_game.png)
+
+4. **Following Game** - A memory or pattern-following game
+
+![alt text](sup/running_game.png)
+
+5. **Shooting Game** - Target shooting game
+
+![alt text](sup/shooting_game.png)
+
+6. **Ball Catching Game** - Classic Pong-style game
+
+![alt text](sup/ball_catching_game.png)
+
+
 
 ## How to Use
 
