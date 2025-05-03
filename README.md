@@ -4,7 +4,7 @@
 
 This tutorial will guide you through building your own Arduino-based Game Boy that plays 6 different games on an 8x8 LED matrix panel. This compact gaming system is perfect for beginners and experienced makers alike, offering classic game experiences with simple controls.
 
-https://github.com/BimsaraS99/Arduino-LED-Matrix-Gameboy/issues/1
+[https://github.com/BimsaraS99/Arduino-LED-Matrix-Gameboy/issues/1](https://github.com/user-attachments/assets/00545c0a-5efd-414a-8f82-51db37a3019c)
 
 
 ## Components List
